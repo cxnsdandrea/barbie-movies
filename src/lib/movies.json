@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Barbie: el Secreto de las Hadas",
+    "descripcion": "Barbie descubre un mundo secreto cuando Ken es transportado por un grupo de hadas. Junto con su rival Raquelle descubre que el poder de la amistad puede ser tan poderoso como la magia misma.",
+    "duracion": "1h 25min",
+    "portada": "https://es.web.img3.acsta.net/pictures/18/02/20/12/55/4492870.jpg",
+    "calificacion": 4.5, 
+    "url": "https://www.princesas.tv/barbie/barbie-secreto-de-las-hadas.html"
+  },
+  {
+    "titulo": "Barbie: Escuela de Princesas",
+    "descripcion": "Blair Willows es una plebeya de 17 años en el reino de Gardania que gana una lotería para asistir a una prestigiosa y mágica escuela de princesas.",
+    "duracion": "1h 20min",
+    "portada": "https://es.web.img3.acsta.net/c_310_420/pictures/18/02/21/09/03/3525368.jpg",
+    "calificacion": 4.2, 
+    "url": ""
+  },
+  {
+    "titulo": "Barbie: la Princesa y la Plebeya",
+    "descripcion": "Una princesa es secuestrada y una joven humilde, idéntica a ella, intenta salvarla haciéndose pasar por la princesa.",
+    "duracion": "1h 25min",
+    "portada": "https://pics.filmaffinity.com/Barbie_La_Princesa_y_la_plebeya-580088756-large.jpg",
+    "calificacion": 4.8, 
+    "url": ""
+  },
+  {
+    "titulo": "Barbie y La Puerta Secreta",
+    "descripcion": "La princesa Alexa descubre una puerta secreta y entra en una tierra desconocida. Después de conocer a Romy y Nori, una sirena y un hada, Alexa descubre sus poderes mágicos y las tres intentan detener a Malucia.",
+    "duracion": "1h 21min",
+    "portada": "https://pics.filmaffinity.com/Barbie_y_la_puerta_secreta-208459355-large.jpg",
+    "calificacion": 3.3, 
+    "url": ""
+  },
+  {
+    "titulo": "Barbie en El Campamento de Princesas",
+    "descripcion": "La princesa Courtney y Erika, una famosa músico, accidentalmente cambian lugares. La princesa termina en Camp Pop y la estrella de rock va al Camp Royalty, y ambas aprenden nuevas cosas e inesperadas.",
+    "duracion": "1h 24min",
+    "portada": "https://play-lh.googleusercontent.com/0e70NeLaHgv3MaDyqLIEXwv03qsaWOR5FPuRHdDn6moSXm4rFNUb7R7X5cjO7RT-oUoP",
+    "calificacion": 3.6, 
+    "url": ""
+  },
+  {
+    "titulo": "Barbie y Las Tres Mosqueteras",
+    "descripcion": "La pueblerina Corinne sueña con convertirse en mosquetera y defender a la familia real, tal y como hizo su padre, el legendario D'Artagnan. Corinne ha entrenado en secreto durante años y, ahora que tiene 17 años, el príncipe necesita su ayuda.",
+    "duracion": "1h 22min",
+    "portada": "https://pics.filmaffinity.com/Barbie_y_las_tres_mosqueteras-392977628-large.jpg",
+    "calificacion": 3.2, 
+    "url": ""
+  }
+]
